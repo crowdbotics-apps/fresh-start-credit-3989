@@ -1,0 +1,3 @@
+rootProject.name = 'fresh_start_credit_3989'
+
+include ':app'
